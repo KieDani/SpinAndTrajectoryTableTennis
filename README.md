@@ -4,6 +4,8 @@ This repository is the official implementation of the paper [Towards Ball Spin a
 
 We are happy to announce that the paper is accepted at the CVSports workshop at CVPR 2025.
 
+We are even more happy to announce that we won the CVSports best paper award! 😁 
+
 ## Preparation
 You can download the data and the trained models [here](https://mediastore.rz.uni-augsburg.de/get/GefuOVBcA7/). 
 Extact the data.

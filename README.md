@@ -2,6 +2,8 @@
 
 This repository is the official implementation of the paper [Towards Ball Spin and Trajectory Analysis in Table Tennis Broadcast Videos via Physically Grounded Synthetic-to-Real Transfer](https://arxiv.org/abs/2504.19863). 
 
+https://github.com/user-attachments/assets/e610e88b-ecc5-4bbc-8452-cdb1b5050f71
+
 We are happy to announce that the paper is accepted at the CVSports workshop at CVPR 2025.
 
 We are even more happy to announce that we won the CVSports best paper award! 😁 
